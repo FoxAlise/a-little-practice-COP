@@ -8,6 +8,14 @@ Upcoming events. Include links to LinkedIn events or whereever they'll live...
 -	Conferences
 
 # Resources
+-	SS group
+-	SAFS think tank
+-	Stock assessment toolbox 
+-	FishPath
+-	NOAA Toolbox
+
+
+# Repository contents
 ``` mermaid
 flowchart TB
 
