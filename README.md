@@ -31,3 +31,6 @@ flowchart TB
     classDef External fill:#006A4B,stroke:#00925B,color:#ffffff
     classDef Functions fill:#f8bc57,stroke:#e0a54e,color:#000000
 ```
+
+# How to use 
+Because not everyone will be familiar
