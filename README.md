@@ -1,2 +1,1 @@
-# a-little-practice-COI
-I'll delete this soon...
+Go look at SSAND landing page... https://github.com/QLD-Fisheries/SSAND
